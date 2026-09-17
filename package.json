@@ -1,0 +1,31 @@
+{
+  "name": "gerenci-de-config-e-evolu-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kazu-pnj/gerenci-de-config-e-evolu-software.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kazu-pnj/gerenci-de-config-e-evolu-software/issues"
+  },
+  "homepage": "https://github.com/Kazu-pnj/gerenci-de-config-e-evolu-software#readme",
+  "dependencies": {
+    "@types/express": "github:types/express",
+    "@types/node": "^22.20.3",
+    "express": "^5.2.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
